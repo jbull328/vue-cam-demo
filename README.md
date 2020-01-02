@@ -10,19 +10,9 @@ yarn install
 yarn run serve
 ```
 
-### Compiles and minifies for production
+### Swith to starting template to follow along with the demo
 ```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
+git checkout start
 ```
 
 ### Customize configuration
